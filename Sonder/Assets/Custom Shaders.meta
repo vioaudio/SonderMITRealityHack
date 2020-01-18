@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 91a73f1795eb6ec49a6ab22464c42595
+=======
+<<<<<<< HEAD
+guid: 91a73f1795eb6ec49a6ab22464c42595
+=======
+guid: 3a1b01515eec745e8866bcd5b8b2f496
+>>>>>>> da8cc03a... Add particle system
+>>>>>>> e606610a... Get Normcore Multiplayer Working
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
