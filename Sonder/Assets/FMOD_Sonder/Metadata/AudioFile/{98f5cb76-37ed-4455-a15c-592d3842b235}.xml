@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{98f5cb76-37ed-4455-a15c-592d3842b235}">
+		<property name="assetPath">
+			<value>Forest_Ambix.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>4</value>
+		</property>
+		<property name="length">
+			<value>20.322187499999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7490845e-5c93-486c-b644-4e4eec8c8636}</destination>
+		</relationship>
+	</object>
+</objects>
